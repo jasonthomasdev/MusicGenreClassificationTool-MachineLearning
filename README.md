@@ -1,1 +1,1 @@
-# WGU-Capstone---Machine-Learning
+# Machine-Learning-Capstone
