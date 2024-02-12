@@ -1,0 +1,10 @@
+2024-02-09 15:07:29,659:ERROR:Input validation error: could not convert string to float: 'def'
+2024-02-12 09:29:47,197:ERROR:No such comm target registered: jupyter.widget.control
+2024-02-12 09:29:47,199:WARNING:No such comm: 653f6e33-ca83-4605-ac23-f54eac58c267
+2024-02-12 09:32:55,604:ERROR:No such comm target registered: jupyter.widget.control
+2024-02-12 09:32:55,605:WARNING:No such comm: 78a5253a-3c79-4b40-a96f-bb22f7c3a29b
+2024-02-12 14:44:18,968:ERROR:Input validation error: Incorrect number of inputs. Expected 14 values.
+2024-02-12 14:44:28,798:ERROR:Input validation error: Incorrect number of inputs. Expected 14 values.
+2024-02-12 14:44:49,191:ERROR:Input validation error: Incorrect number of inputs. Expected 14 values.
+2024-02-12 14:44:50,175:ERROR:Input validation error: Incorrect number of inputs. Expected 14 values.
+2024-02-12 14:44:59,709:ERROR:Input validation error: Incorrect number of inputs. Expected 14 values.
