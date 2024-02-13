@@ -1,1 +1,1 @@
-web: voila --enable_nbextensions=True --port=$PORT --no-browser MusicGenreClassification.ipynb --theme=light
+web: voila --no-browser --port=$PORT MusicGenreClassification.ipynb --theme=light
